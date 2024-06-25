@@ -22,6 +22,3 @@ Open Your browser put inside browser “http://localhost/library/admin”
 Login Details for admin : 
 Username: admin
 Password:Test@123
-
-
-For More Details --- https://phpgurukul.com/online-library-management-system/
